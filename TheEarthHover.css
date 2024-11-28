@@ -10,7 +10,7 @@ fieldset{
     width: 350px;
     height: 370px;
     margin: 200px auto;
-    background-image: url(/assets/image/Earth.png);
+    background-image: url(/Earth.png);
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;
